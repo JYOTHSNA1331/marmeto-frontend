@@ -27,7 +27,9 @@ or
 
 ## Usage
 1.Open the index.html file in a web browser.
+
 2.Click on Men, Women, or Kids tabs to explore products in different categories.
+
 3.Test the responsiveness by adjusting the screen size to see how the layout adapts.
 
 
